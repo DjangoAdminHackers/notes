@@ -7,3 +7,4 @@ Notes and Resources
 * http://djangosnippets.org/snippets/431/ [Automatic edit popup for related objects]
 * https://github.com/charettes/django-admin-enhancer
 * https://github.com/burke-software/django-report-builder
+* http://stackoverflow.com/a/10267927/45955 [possible fix for admin template inheritance problems]
