@@ -12,6 +12,7 @@ Notes and Resources
 * http://djangosnippets.org/snippets/2868/ [Another admin CSV export]  
 * https://github.com/liberation/django-admin-tabs/ [out of date and badly architectured]
 * https://github.com/KrzysiekJ/django-typed-models and https://github.com/craigds/django-typed-models
+* https://github.com/jsocol/django-ratelimit
 
 Faking the ORM
 ==============
