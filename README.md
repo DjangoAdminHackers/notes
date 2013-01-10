@@ -38,4 +38,5 @@ Admin Next
 * https://speakerdeck.com/amiramazig/django-composite
 * https://github.com/django-composite/django-composite-admin/
 * https://github.com/django-composite/django-composite
+* https://github.com/zbyte64/django-hyperadmin
  
