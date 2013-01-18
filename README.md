@@ -13,6 +13,7 @@ Notes and Resources
 * https://github.com/liberation/django-admin-tabs/ [out of date and badly architectured]
 * https://github.com/KrzysiekJ/django-typed-models and https://github.com/craigds/django-typed-models
 * https://github.com/jsocol/django-ratelimit
+* http://packages.python.org/django-authority/index.html
 
 Faking the ORM
 ==============
