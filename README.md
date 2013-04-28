@@ -15,6 +15,7 @@ Notes and Resources
 * https://github.com/jsocol/django-ratelimit
 * http://packages.python.org/django-authority/index.html
 * https://github.com/benjaoming/django-relatedadminwidget
+* https://github.com/pullswitch/django-freeplay
 
 Faking the ORM
 ==============
