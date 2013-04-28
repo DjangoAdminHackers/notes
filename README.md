@@ -14,6 +14,7 @@ Notes and Resources
 * https://github.com/KrzysiekJ/django-typed-models and https://github.com/craigds/django-typed-models
 * https://github.com/jsocol/django-ratelimit
 * http://packages.python.org/django-authority/index.html
+* https://github.com/benjaoming/django-relatedadminwidget
 
 Faking the ORM
 ==============
