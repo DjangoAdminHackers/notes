@@ -17,6 +17,7 @@ Notes and Resources
 * https://github.com/benjaoming/django-relatedadminwidget
 * https://github.com/pullswitch/django-freeplay
 * https://readthedocs.org/projects/django-fluent-dashboard/
+* http://django-admin-tools.readthedocs.org/en/latest/
 
 Faking the ORM
 ==============
@@ -43,4 +44,7 @@ Admin Next
 * https://github.com/django-composite/django-composite-admin/
 * https://github.com/django-composite/django-composite
 * https://github.com/zbyte64/django-hyperadmin
+* https://github.com/django-djam/django-djam
+* https://github.com/disqus/nexus
+
  
