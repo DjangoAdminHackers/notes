@@ -16,6 +16,7 @@ Notes and Resources
 * http://packages.python.org/django-authority/index.html
 * https://github.com/benjaoming/django-relatedadminwidget
 * https://github.com/pullswitch/django-freeplay
+* https://readthedocs.org/projects/django-fluent-dashboard/
 
 Faking the ORM
 ==============
