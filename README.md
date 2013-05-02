@@ -47,4 +47,10 @@ Admin Next
 * https://github.com/django-djam/django-djam
 * https://github.com/disqus/nexus
 
+
+Planned Additions
+=================
+
+Remember filter settings when returning to changelist
+
  
