@@ -47,6 +47,8 @@ Admin Next
 * https://github.com/django-djam/django-djam
 * https://github.com/disqus/nexus
 
+* http://sshwsfc.github.io/django-xadmin/
+
 
 
 Future Admin improvements
@@ -115,7 +117,6 @@ http://djangosnippets.org/snippets/2194/
 
 [should internal urls be stored in a format that does a lazy lookup] i.e. href="model://xxx,id###". Replace it when the page is rendered. That way there is no need for a slug and all internal links update automatically. Still a chance of breaking external links though. Maybe use a 301 for those?]
 
---------------------
 
 Current Tweaks
 ==============
