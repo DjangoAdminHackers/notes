@@ -18,6 +18,7 @@ Notes and Resources
 * https://github.com/pullswitch/django-freeplay
 * https://readthedocs.org/projects/django-fluent-dashboard/
 * http://django-admin-tools.readthedocs.org/en/latest/
+* https://github.com/digi604/django-smart-selects
 
 Faking the ORM
 ==============
